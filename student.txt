@@ -1,0 +1,3 @@
+student name: Pieter Venema
+student number: 684781
+student class: HAINF1a 
