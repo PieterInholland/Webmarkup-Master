@@ -1,0 +1,3 @@
+student name: Pieter Venema
+Student number: 684781
+Student class: INF 1A 
