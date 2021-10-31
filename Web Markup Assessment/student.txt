@@ -1,0 +1,4 @@
+Student name: Pieter Venema
+Student number: 684781
+Student class: inf1a
+URL student GitHub repository: https://github.com/PieterInholland/Webmarkup-Master.git
